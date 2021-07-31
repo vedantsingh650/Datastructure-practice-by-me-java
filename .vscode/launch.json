@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bsearch",
+            "request": "launch",
+            "mainClass": "Bsearch",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircularLinkedList",
+            "request": "launch",
+            "mainClass": "CircularLinkedList",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircularQueue",
+            "request": "launch",
+            "mainClass": "CircularQueue",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoublyLinkedList",
+            "request": "launch",
+            "mainClass": "DoublyLinkedList",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch Infixtopostfix",
+            "request": "launch",
+            "mainClass": "Infixtopostfix",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch InserionSort",
+            "request": "launch",
+            "mainClass": "InserionSort",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch Queue",
+            "request": "launch",
+            "mainClass": "Queue",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stackk",
+            "request": "launch",
+            "mainClass": "Stackk",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch paranthesismatch",
+            "request": "launch",
+            "mainClass": "paranthesismatch",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch tr",
+            "request": "launch",
+            "mainClass": "tr",
+            "projectName": "code_d9243b46"
+        },
+        {
+            "type": "java",
+            "name": "Launch yr",
+            "request": "launch",
+            "mainClass": "yr",
+            "projectName": "code_d9243b46"
+        }
+    ]
+}
